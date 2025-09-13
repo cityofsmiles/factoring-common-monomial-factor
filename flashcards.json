@@ -1,802 +1,802 @@
 [
   {
-    "question": "64n^4 + 48",
-    "answer": "8(8n^4 + 6)"
+    "question": "72c - 48",
+    "answer": "8(9c - 6)"
   },
   {
-    "question": "48b^4 + 56",
-    "answer": "8(6b^4 + 7)"
+    "question": "2c^2 + 16",
+    "answer": "2(c^2 + 8)"
   },
   {
-    "question": "21c^3 - 9",
-    "answer": "3(7c^3 - 3)"
+    "question": "32b^4 + 36",
+    "answer": "4(8b^4 + 9)"
   },
   {
-    "question": "40a^4 - 72",
-    "answer": "8(5a^4 - 9)"
+    "question": "36c^3 - 20",
+    "answer": "4(9c^3 - 5)"
   },
   {
-    "question": "45a^4 + 20",
-    "answer": "5(9a^4 + 4)"
+    "question": "9a - 81",
+    "answer": "9(a - 9)"
   },
   {
-    "question": "25y - 30",
-    "answer": "5(5y - 6)"
+    "question": "12c^3 + 4",
+    "answer": "2(6c^3 + 2)"
   },
   {
-    "question": "64b^3 - 16",
-    "answer": "8(8b^3 - 2)"
+    "question": "63q^4 + 18",
+    "answer": "9(7q^4 + 2)"
   },
   {
-    "question": "36a^4 - 42",
-    "answer": "6(6a^4 - 7)"
+    "question": "40a - 16",
+    "answer": "8(5a - 2)"
   },
   {
-    "question": "36a^3 - 24",
-    "answer": "6(6a^3 - 4)"
+    "question": "81x^2 + 72",
+    "answer": "9(9x^2 + 8)"
   },
   {
-    "question": "2c^2 + 4",
-    "answer": "2(c^2 + 2)"
+    "question": "24a - 15",
+    "answer": "3(8a - 5)"
   },
   {
-    "question": "72a^3 + 16",
-    "answer": "8(9a^3 + 2)"
+    "question": "9m^4 - 45",
+    "answer": "9(m^4 - 5)"
   },
   {
-    "question": "45a^4 - 63",
-    "answer": "9(5a^4 - 7)"
+    "question": "12n^3 - 16",
+    "answer": "2(6n^3 - 8)"
   },
   {
-    "question": "28a^4 - 12",
-    "answer": "4(7a^4 - 3)"
+    "question": "15x^2 + 40",
+    "answer": "5(3x^2 + 8)"
   },
   {
-    "question": "24b^2 - 27",
-    "answer": "3(8b^2 - 9)"
+    "question": "8a^3 - 48",
+    "answer": "8(a^3 - 6)"
   },
   {
-    "question": "12c^2 + 6",
-    "answer": "3(4c^2 + 2)"
+    "question": "27m^3 + 24",
+    "answer": "3(9m^3 + 8)"
   },
   {
-    "question": "45q^4 + 81",
-    "answer": "9(5q^4 + 9)"
+    "question": "12a^2 + 36",
+    "answer": "4(3a^2 + 9)"
   },
   {
-    "question": "81y^2 + 63",
-    "answer": "9(9y^2 + 7)"
+    "question": "6x^3 + 6",
+    "answer": "3(2x^3 + 2)"
   },
   {
-    "question": "20b^4 - 12",
-    "answer": "4(5b^4 - 3)"
+    "question": "42y - 63",
+    "answer": "7(6y - 9)"
   },
   {
-    "question": "6a^4 + 6",
-    "answer": "3(2a^4 + 2)"
+    "question": "36a^4 - 36",
+    "answer": "4(9a^4 - 9)"
   },
   {
-    "question": "27m^2 + 15",
-    "answer": "3(9m^2 + 5)"
+    "question": "8c^4 - 12",
+    "answer": "2(4c^4 - 6)"
   },
   {
-    "question": "56x^2 + 72",
-    "answer": "8(7x^2 + 9)"
+    "question": "6q^2 + 42",
+    "answer": "6(q^2 + 7)"
   },
   {
-    "question": "81p^4 - 36",
-    "answer": "9(9p^4 - 4)"
+    "question": "56n^3 - 42",
+    "answer": "7(8n^3 - 6)"
   },
   {
-    "question": "16m^3 - 12",
-    "answer": "4(4m^3 - 3)"
+    "question": "28n^2 - 56",
+    "answer": "7(4n^2 - 8)"
   },
   {
-    "question": "32q^4 - 16",
-    "answer": "8(4q^4 - 2)"
+    "question": "45a^2 - 20",
+    "answer": "5(9a^2 - 4)"
   },
   {
-    "question": "49b^2 + 56",
-    "answer": "7(7b^2 + 8)"
+    "question": "7c^3 - 42",
+    "answer": "7(c^3 - 6)"
   },
   {
-    "question": "15b^2 - 6",
-    "answer": "3(5b^2 - 2)"
+    "question": "32c^3 - 32",
+    "answer": "8(4c^3 - 4)"
   },
   {
-    "question": "35a + 35",
-    "answer": "7(5a + 5)"
+    "question": "8c^4 - 18",
+    "answer": "2(4c^4 - 9)"
   },
   {
-    "question": "5a^2 + 25",
-    "answer": "5(a^2 + 5)"
+    "question": "36m^3 + 36",
+    "answer": "9(4m^3 + 4)"
   },
   {
-    "question": "3n^4 - 27",
-    "answer": "3(n^4 - 9)"
+    "question": "12p^4 + 48",
+    "answer": "6(2p^4 + 8)"
   },
   {
-    "question": "28m + 24",
-    "answer": "4(7m + 6)"
+    "question": "16b^4 + 36",
+    "answer": "4(4b^4 + 9)"
   },
   {
-    "question": "63m^3 + 36",
-    "answer": "9(7m^3 + 4)"
+    "question": "18c^2 + 12",
+    "answer": "6(3c^2 + 2)"
   },
   {
-    "question": "10a^3 + 15",
-    "answer": "5(2a^3 + 3)"
+    "question": "28b^4 + 8",
+    "answer": "4(7b^4 + 2)"
   },
   {
-    "question": "4c^2 + 24",
-    "answer": "4(c^2 + 6)"
+    "question": "9a - 6",
+    "answer": "3(3a - 2)"
   },
   {
-    "question": "32m - 32",
-    "answer": "8(4m - 4)"
+    "question": "28c^2 - 24",
+    "answer": "4(7c^2 - 6)"
   },
   {
-    "question": "7p^3 - 42",
-    "answer": "7(p^3 - 6)"
+    "question": "40b - 40",
+    "answer": "5(8b - 8)"
   },
   {
-    "question": "15n^4 + 21",
-    "answer": "3(5n^4 + 7)"
+    "question": "20p - 8",
+    "answer": "4(5p - 2)"
   },
   {
-    "question": "28c^2 + 35",
-    "answer": "7(4c^2 + 5)"
+    "question": "63c^2 + 21",
+    "answer": "7(9c^2 + 3)"
   },
   {
-    "question": "5n^3 - 10",
-    "answer": "5(n^3 - 2)"
+    "question": "36a^2 + 16",
+    "answer": "4(9a^2 + 4)"
   },
   {
-    "question": "7b + 42",
-    "answer": "7(b + 6)"
+    "question": "36a - 12",
+    "answer": "6(6a - 2)"
   },
   {
-    "question": "30c^3 + 12",
-    "answer": "6(5c^3 + 2)"
+    "question": "63a^3 - 63",
+    "answer": "7(9a^3 - 9)"
   },
   {
-    "question": "27c^3 - 36",
-    "answer": "9(3c^3 - 4)"
+    "question": "28c - 32",
+    "answer": "4(7c - 8)"
   },
   {
-    "question": "8p^4 - 48",
-    "answer": "8(p^4 - 6)"
+    "question": "42a + 35",
+    "answer": "7(6a + 5)"
   },
   {
-    "question": "20n^2 - 32",
-    "answer": "4(5n^2 - 8)"
+    "question": "64a^2 - 56",
+    "answer": "8(8a^2 - 7)"
   },
   {
-    "question": "40m^3 - 32",
-    "answer": "8(5m^3 - 4)"
+    "question": "24p^3 - 36",
+    "answer": "4(6p^3 - 9)"
   },
   {
-    "question": "9b^4 - 63",
-    "answer": "9(b^4 - 7)"
+    "question": "8c + 64",
+    "answer": "8(c + 8)"
   },
   {
-    "question": "3a^2 + 9",
-    "answer": "3(a^2 + 3)"
+    "question": "54n^2 + 81",
+    "answer": "9(6n^2 + 9)"
   },
   {
-    "question": "49q - 49",
-    "answer": "7(7q - 7)"
+    "question": "15b^4 + 18",
+    "answer": "3(5b^4 + 6)"
   },
   {
-    "question": "6m^2 - 24",
-    "answer": "3(2m^2 - 8)"
+    "question": "28x^3 - 28",
+    "answer": "4(7x^3 - 7)"
   },
   {
-    "question": "8a^2 - 32",
-    "answer": "8(a^2 - 4)"
+    "question": "6n^4 - 24",
+    "answer": "6(n^4 - 4)"
   },
   {
-    "question": "18c^4 - 6",
-    "answer": "2(9c^4 - 3)"
+    "question": "35x^2 + 45",
+    "answer": "5(7x^2 + 9)"
   },
   {
-    "question": "36x^2 - 54y^2",
-    "answer": "9(4x^2 - 6y^2)"
+    "question": "8m + 12q",
+    "answer": "4(2m + 3q)"
   },
   {
-    "question": "15a^4 + 24b^2",
-    "answer": "3(5a^4 + 8b^2)"
+    "question": "81c + 54x^2",
+    "answer": "9(9c + 6x^2)"
   },
   {
-    "question": "12b - 20x^2",
-    "answer": "4(3b - 5x^2)"
+    "question": "10a^3 - 2q^2",
+    "answer": "2(5a^3 - q^2)"
   },
   {
-    "question": "6a^2 + 27b^4",
-    "answer": "3(2a^2 + 9b^4)"
+    "question": "30c^3 + 45q^2",
+    "answer": "5(6c^3 + 9q^2)"
   },
   {
-    "question": "56p + 49y^4",
-    "answer": "7(8p + 7y^4)"
+    "question": "16b^3 + 8m^3",
+    "answer": "4(4b^3 + 2m^3)"
   },
   {
-    "question": "18a + 14p^4",
-    "answer": "2(9a + 7p^4)"
+    "question": "12c - 16z",
+    "answer": "4(3c - 4z)"
   },
   {
-    "question": "30b^2 + 30q^4",
-    "answer": "6(5b^2 + 5q^4)"
+    "question": "12b^2 - 27m^4",
+    "answer": "3(4b^2 - 9m^4)"
   },
   {
-    "question": "21c^3 - 35n^2",
-    "answer": "7(3c^3 - 5n^2)"
+    "question": "25n^3 + 20p^2",
+    "answer": "5(5n^3 + 4p^2)"
   },
   {
-    "question": "18c^4 - 2y^2",
-    "answer": "2(9c^4 - y^2)"
+    "question": "4n^2 - 6p",
+    "answer": "2(2n^2 - 3p)"
   },
   {
-    "question": "12a^4 - 42q^4",
-    "answer": "6(2a^4 - 7q^4)"
+    "question": "28a^3 + 24q^3",
+    "answer": "4(7a^3 + 6q^3)"
   },
   {
-    "question": "24m - 12z",
-    "answer": "3(8m - 4z)"
+    "question": "40p + 45y",
+    "answer": "5(8p + 9y)"
   },
   {
-    "question": "30n^2 + 36q^3",
-    "answer": "6(5n^2 + 6q^3)"
+    "question": "15a - 27y^3",
+    "answer": "3(5a - 9y^3)"
   },
   {
-    "question": "5n^3 + 40y",
-    "answer": "5(n^3 + 8y)"
+    "question": "81m + 63p^2",
+    "answer": "9(9m + 7p^2)"
   },
   {
-    "question": "56c + 8q",
-    "answer": "8(7c + q)"
+    "question": "4n - 12q^2",
+    "answer": "2(2n - 6q^2)"
   },
   {
-    "question": "54a^4 - 6c^2",
-    "answer": "6(9a^4 - c^2)"
+    "question": "15n^3 - 12z^4",
+    "answer": "3(5n^3 - 4z^4)"
   },
   {
-    "question": "30a^3 - 18b^4",
-    "answer": "6(5a^3 - 3b^4)"
+    "question": "54c^4 + 6z^3",
+    "answer": "6(9c^4 + z^3)"
   },
   {
-    "question": "16c^4 - 16x^3",
-    "answer": "4(4c^4 - 4x^3)"
+    "question": "64m^4 + 48n^4",
+    "answer": "8(8m^4 + 6n^4)"
   },
   {
-    "question": "9n^4 - 6q^4",
-    "answer": "3(3n^4 - 2q^4)"
+    "question": "2b^3 + 10y^3",
+    "answer": "2(b^3 + 5y^3)"
   },
   {
-    "question": "8c^3 + 32x^2",
-    "answer": "8(c^3 + 4x^2)"
+    "question": "24n + 6q^4",
+    "answer": "3(8n + 2q^4)"
   },
   {
-    "question": "24m^2 + 8x^4",
-    "answer": "8(3m^2 + x^4)"
+    "question": "4b^2 - 36c^3",
+    "answer": "4(b^2 - 9c^3)"
   },
   {
-    "question": "56b^2 + 21x^2",
-    "answer": "7(8b^2 + 3x^2)"
+    "question": "35b^4 + 40m",
+    "answer": "5(7b^4 + 8m)"
   },
   {
-    "question": "45c^4 - 45m^2",
-    "answer": "5(9c^4 - 9m^2)"
+    "question": "6x + 12y^3",
+    "answer": "6(x + 2y^3)"
   },
   {
-    "question": "15a^3 + 10p",
-    "answer": "5(3a^3 + 2p)"
+    "question": "42b^4 - 36y^2",
+    "answer": "6(7b^4 - 6y^2)"
   },
   {
-    "question": "14n^2 + 14p^4",
-    "answer": "7(2n^2 + 2p^4)"
+    "question": "45m^2 - 72y^4",
+    "answer": "9(5m^2 - 8y^4)"
   },
   {
-    "question": "36q^3 - 9x",
-    "answer": "9(4q^3 - x)"
+    "question": "32a^4 + 4p",
+    "answer": "4(8a^4 + p)"
   },
   {
-    "question": "18b + 8c^3",
-    "answer": "2(9b + 4c^3)"
+    "question": "12x^3 + 36y^4",
+    "answer": "4(3x^3 + 9y^4)"
   },
   {
-    "question": "48b^3 + 16m^3",
-    "answer": "8(6b^3 + 2m^3)"
+    "question": "24b^4 - 32y^3",
+    "answer": "8(3b^4 - 4y^3)"
   },
   {
-    "question": "45a^3 - 40b^4",
-    "answer": "5(9a^3 - 8b^4)"
+    "question": "63y^2 + 56z^4",
+    "answer": "7(9y^2 + 8z^4)"
   },
   {
-    "question": "27c^2 + 6m^4",
-    "answer": "3(9c^2 + 2m^4)"
+    "question": "9n^4 - 24y^2",
+    "answer": "3(3n^4 - 8y^2)"
   },
   {
-    "question": "4a^4 - 6y^3",
-    "answer": "2(2a^4 - 3y^3)"
+    "question": "6a + 18m",
+    "answer": "6(a + 3m)"
   },
   {
-    "question": "25a - 45n",
-    "answer": "5(5a - 9n)"
+    "question": "3x^2 + 12y^4",
+    "answer": "3(x^2 + 4y^4)"
   },
   {
-    "question": "72p^3 - 24q^3",
-    "answer": "8(9p^3 - 3q^3)"
+    "question": "63a - 35c^2",
+    "answer": "7(9a - 5c^2)"
   },
   {
-    "question": "63a^4 - 72n^4",
-    "answer": "9(7a^4 - 8n^4)"
+    "question": "15c + 21q^4",
+    "answer": "3(5c + 7q^4)"
   },
   {
-    "question": "4a^3 + 12z^2",
-    "answer": "2(2a^3 + 6z^2)"
+    "question": "56m^3 - 48z^4",
+    "answer": "8(7m^3 - 6z^4)"
   },
   {
-    "question": "21a + 21z^4",
-    "answer": "7(3a + 3z^4)"
+    "question": "48p^3 + 36y^2",
+    "answer": "6(8p^3 + 6y^2)"
   },
   {
-    "question": "21p^3 + 28x^2",
-    "answer": "7(3p^3 + 4x^2)"
+    "question": "30b^2 + 20c",
+    "answer": "5(6b^2 + 4c)"
   },
   {
-    "question": "40a^2 + 5y",
-    "answer": "5(8a^2 + y)"
+    "question": "42m + 7n^2",
+    "answer": "7(6m + n^2)"
   },
   {
-    "question": "36b - 12z^2",
-    "answer": "4(9b - 3z^2)"
+    "question": "56b - 21x",
+    "answer": "7(8b - 3x)"
   },
   {
-    "question": "5b - 10p^3",
-    "answer": "5(b - 2p^3)"
+    "question": "20a + 10x",
+    "answer": "5(4a + 2x)"
   },
   {
-    "question": "30b^4 + 48c",
-    "answer": "6(5b^4 + 8c)"
+    "question": "20m^2 - 45q",
+    "answer": "5(4m^2 - 9q)"
   },
   {
-    "question": "3m^4 + 18z",
-    "answer": "3(m^4 + 6z)"
+    "question": "32n^4 + 8q^3",
+    "answer": "8(4n^4 + q^3)"
   },
   {
-    "question": "24m^4 + 24n^2",
-    "answer": "6(4m^4 + 4n^2)"
+    "question": "4c + 14z^3",
+    "answer": "2(2c + 7z^3)"
   },
   {
-    "question": "35c + 63p^4",
-    "answer": "7(5c + 9p^4)"
+    "question": "24c + 20p^2",
+    "answer": "4(6c + 5p^2)"
   },
   {
-    "question": "49b^4 - 63m^4",
-    "answer": "7(7b^4 - 9m^4)"
+    "question": "9y^3 + 3z^3",
+    "answer": "3(3y^3 + z^3)"
   },
   {
-    "question": "16a^3 + 4b^2",
-    "answer": "4(4a^3 + b^2)"
+    "question": "18q^3 + 24x^4",
+    "answer": "6(3q^3 + 4x^4)"
   },
   {
-    "question": "48a^4 - 30z^3",
-    "answer": "6(8a^4 - 5z^3)"
+    "question": "64b^2 + 48c^3",
+    "answer": "8(8b^2 + 6c^3)"
   },
   {
-    "question": "15p^4 - 25y",
-    "answer": "5(3p^4 - 5y)"
+    "question": "24c^3 + 12m^3",
+    "answer": "4(6c^3 + 3m^3)"
   },
   {
-    "question": "14a^2 - 21b",
-    "answer": "7(2a^2 - 3b)"
+    "question": "40a^4 + 10z^4",
+    "answer": "5(8a^4 + 2z^4)"
   },
   {
-    "question": "9n^4 - 9y^2",
-    "answer": "9(n^4 - y^2)"
+    "question": "35y^3 + 20z^3",
+    "answer": "5(7y^3 + 4z^3)"
   },
   {
-    "question": "72b - 24q^4",
-    "answer": "8(9b - 3q^4)"
+    "question": "35b^4 - 20c",
+    "answer": "5(7b^4 - 4c)"
   },
   {
-    "question": "3m^7 - 2m^3",
-    "answer": "m^3(3m^4 - 2)"
+    "question": "81q^7 - 36q^3",
+    "answer": "9q^3(9q^4 - 4)"
   },
   {
-    "question": "40b^3 - 16b^2",
-    "answer": "8b^2(5b - 2)"
+    "question": "7c^7 + 35c^3",
+    "answer": "7c^3(c^4 + 5)"
   },
   {
-    "question": "7x^8 - 5x^4",
-    "answer": "x^4(7x^4 - 5)"
+    "question": "9n^7 + 3n^3",
+    "answer": "n^3(9n^4 + 3)"
   },
   {
-    "question": "8y^4 + 16y^2",
-    "answer": "8y^2(y^2 + 2)"
+    "question": "10x^8 - 6x^4",
+    "answer": "2x^4(5x^4 - 3)"
   },
   {
-    "question": "72a^5 - 27a^2",
-    "answer": "9a^2(8a^3 - 3)"
+    "question": "49y^8 - 49y^4",
+    "answer": "7y^4(7y^4 - 7)"
   },
   {
-    "question": "24a^6 - 42a^4",
-    "answer": "6a^4(4a^2 - 7)"
+    "question": "12q^4 + 12q^3",
+    "answer": "4q^3(3q + 3)"
   },
   {
-    "question": "30m^3 - 45m",
-    "answer": "5m(6m^2 - 9)"
+    "question": "18c^6 + 42c^4",
+    "answer": "6c^4(3c^2 + 7)"
   },
   {
-    "question": "4c^7 - 12c^4",
-    "answer": "4c^4(c^3 - 3)"
+    "question": "6a^5 + 8a^4",
+    "answer": "a^4(6a + 8)"
   },
   {
-    "question": "18c^3 - 24c",
-    "answer": "6c(3c^2 - 4)"
+    "question": "6b^4 + 12b^3",
+    "answer": "6b^3(b + 2)"
   },
   {
-    "question": "56b^5 - 72b^3",
-    "answer": "8b^3(7b^2 - 9)"
+    "question": "45c^6 + 27c^3",
+    "answer": "9c^3(5c^3 + 3)"
   },
   {
-    "question": "8a^7 - 9a^4",
-    "answer": "a^4(8a^3 - 9)"
+    "question": "12c^2 + 24c",
+    "answer": "3c(4c + 8)"
   },
   {
-    "question": "18n^5 + 36n^3",
-    "answer": "9n^3(2n^2 + 4)"
+    "question": "12p^2 - 36p",
+    "answer": "4p(3p - 9)"
   },
   {
-    "question": "81c^5 - 18c",
-    "answer": "9c(9c^4 - 2)"
+    "question": "6m^6 - 8m^4",
+    "answer": "2m^4(3m^2 - 4)"
   },
   {
-    "question": "40m^5 - 56m^4",
-    "answer": "8m^4(5m - 7)"
+    "question": "2a^7 + 12a^3",
+    "answer": "2a^3(a^4 + 6)"
   },
   {
-    "question": "63b^7 + 42b^3",
-    "answer": "7b^3(9b^4 + 6)"
+    "question": "14p^6 - 49p^4",
+    "answer": "7p^4(2p^2 - 7)"
   },
   {
-    "question": "16b^3 + 72b^2",
-    "answer": "8b^2(2b + 9)"
+    "question": "7q^4 + 14q^2",
+    "answer": "7q^2(q^2 + 2)"
   },
   {
-    "question": "8b^7 + 28b^4",
-    "answer": "4b^4(2b^3 + 7)"
+    "question": "8a^3 + 18a^2",
+    "answer": "2a^2(4a + 9)"
   },
   {
-    "question": "25b^5 - 15b^4",
-    "answer": "5b^4(5b - 3)"
+    "question": "20b^2 + 32b",
+    "answer": "4b(5b + 8)"
   },
   {
-    "question": "15a^4 + 21a^2",
-    "answer": "3a^2(5a^2 + 7)"
+    "question": "6p^8 + 3p^4",
+    "answer": "p^4(6p^4 + 3)"
   },
   {
-    "question": "3a^5 + 5a^3",
-    "answer": "a^3(3a^2 + 5)"
+    "question": "4q^5 + 4q",
+    "answer": "2q(2q^4 + 2)"
   },
   {
-    "question": "3c^3 + 8c^2",
-    "answer": "c^2(3c + 8)"
+    "question": "27c^5 + 12c^4",
+    "answer": "3c^4(9c + 4)"
   },
   {
-    "question": "4q^8 - 28q^4",
-    "answer": "4q^4(q^4 - 7)"
+    "question": "35p^6 + 35p^2",
+    "answer": "5p^2(7p^4 + 7)"
   },
   {
-    "question": "36b^4 - 16b^2",
-    "answer": "4b^2(9b^2 - 4)"
+    "question": "4q^2 - 10q",
+    "answer": "2q(2q - 5)"
   },
   {
-    "question": "63c^7 + 45c^4",
-    "answer": "9c^4(7c^3 + 5)"
+    "question": "27x^3 + 63x",
+    "answer": "9x(3x^2 + 7)"
   },
   {
-    "question": "48b^6 + 72b^3",
-    "answer": "8b^3(6b^3 + 9)"
+    "question": "63q^7 - 36q^3",
+    "answer": "9q^3(7q^4 - 4)"
   },
   {
-    "question": "7b^4 + 49b",
-    "answer": "7b(b^3 + 7)"
+    "question": "36m^7 - 32m^4",
+    "answer": "4m^4(9m^3 - 8)"
   },
   {
-    "question": "49a^4 - 28a",
-    "answer": "7a(7a^3 - 4)"
+    "question": "2p^5 + 6p",
+    "answer": "p(2p^4 + 6)"
   },
   {
-    "question": "6a^5 + 27a",
-    "answer": "3a(2a^4 + 9)"
+    "question": "3a^8 - 15a^4",
+    "answer": "3a^4(a^4 - 5)"
   },
   {
-    "question": "48q^4 - 40q^2",
-    "answer": "8q^2(6q^2 - 5)"
+    "question": "2p^8 + 10p^4",
+    "answer": "2p^4(p^4 + 5)"
   },
   {
-    "question": "12a^2 + 6a",
-    "answer": "3a(4a + 2)"
+    "question": "32c^5 + 8c",
+    "answer": "4c(8c^4 + 2)"
   },
   {
-    "question": "42n^3 - 28n",
-    "answer": "7n(6n^2 - 4)"
+    "question": "9b^7 - 9b^3",
+    "answer": "3b^3(3b^4 - 3)"
   },
   {
-    "question": "40m^5 - 35m^4",
-    "answer": "5m^4(8m - 7)"
+    "question": "6m^6 - 12m^4",
+    "answer": "6m^4(m^2 - 2)"
   },
   {
-    "question": "20a^4 - 8a",
-    "answer": "4a(5a^3 - 2)"
+    "question": "72n^5 - 32n",
+    "answer": "8n(9n^4 - 4)"
   },
   {
-    "question": "14m^4 - 21m^3",
-    "answer": "7m^3(2m - 3)"
+    "question": "54b^6 - 18b^3",
+    "answer": "6b^3(9b^3 - 3)"
   },
   {
-    "question": "30x^6 + 20x^3",
-    "answer": "5x^3(6x^3 + 4)"
+    "question": "15m^6 + 6m^2",
+    "answer": "3m^2(5m^4 + 2)"
   },
   {
-    "question": "7c^5 + 6c^2",
-    "answer": "c^2(7c^3 + 6)"
+    "question": "42a^6 - 49a^3",
+    "answer": "7a^3(6a^3 - 7)"
   },
   {
-    "question": "7a^5 - 42a^2",
-    "answer": "7a^2(a^3 - 6)"
+    "question": "p^6 + 3p^2",
+    "answer": "p^2(p^4 + 3)"
   },
   {
-    "question": "8c^2 - 6c",
-    "answer": "2c(4c - 3)"
+    "question": "32x^3 + 20x",
+    "answer": "4x(8x^2 + 5)"
   },
   {
-    "question": "8b^5 + 14b^3",
-    "answer": "2b^3(4b^2 + 7)"
+    "question": "25q^8 - 30q^4",
+    "answer": "5q^4(5q^4 - 6)"
   },
   {
-    "question": "36a^5 - 32a^4",
-    "answer": "4a^4(9a - 8)"
+    "question": "2a^8 - 12a^4",
+    "answer": "2a^4(a^4 - 6)"
   },
   {
-    "question": "9c^5 - 2c",
-    "answer": "c(9c^4 - 2)"
+    "question": "40c^6 + 16c^3",
+    "answer": "8c^3(5c^3 + 2)"
   },
   {
-    "question": "3n^4 - 9n",
-    "answer": "n(3n^3 - 9)"
+    "question": "9b^7 - 63b^4",
+    "answer": "9b^4(b^3 - 7)"
   },
   {
-    "question": "42b^7 + 30b^3",
-    "answer": "6b^3(7b^4 + 5)"
+    "question": "7m^3 - 63m^2",
+    "answer": "7m^2(m - 9)"
   },
   {
-    "question": "12c^3 - 24c",
-    "answer": "4c(3c^2 - 6)"
+    "question": "14p^5 + 10p^2",
+    "answer": "2p^2(7p^3 + 5)"
   },
   {
-    "question": "28m^4 + 49m^3",
-    "answer": "7m^3(4m + 7)"
+    "question": "27m^6 + 81m^2",
+    "answer": "9m^2(3m^4 + 9)"
   },
   {
-    "question": "12a^5 - 30a^3",
-    "answer": "6a^3(2a^2 - 5)"
+    "question": "16a^6 - 8a^3",
+    "answer": "4a^3(4a^3 - 2)"
   },
   {
-    "question": "56x^5 + 64x^2",
-    "answer": "8x^2(7x^3 + 8)"
+    "question": "9b^5 + 81b^2",
+    "answer": "9b^2(b^3 + 9)"
   },
   {
-    "question": "36b^7 - 36b^3",
-    "answer": "9b^3(4b^4 - 4)"
+    "question": "48p^6 + 36p^4",
+    "answer": "6p^4(8p^2 + 6)"
   },
   {
-    "question": "15b^3 - 10b",
-    "answer": "5b(3b^2 - 2)"
+    "question": "20a^5 - 16a^4",
+    "answer": "4a^4(5a - 4)"
   },
   {
-    "question": "6m^6 - 24m^2",
-    "answer": "3m^2(2m^4 - 8)"
+    "question": "32q^6 + 32q^3",
+    "answer": "8q^3(4q^3 + 4)"
   },
   {
-    "question": "20b^3 - 32b^2n",
-    "answer": "4b^2(5b - 8n)"
+    "question": "4m^7 - 2m^4q^2",
+    "answer": "m^4(4m^3 - 2q^2)"
   },
   {
-    "question": "3p^7 + 18p^4x^3",
-    "answer": "3p^4(p^3 + 6x^3)"
+    "question": "20a^4 - 45am^2",
+    "answer": "5a(4a^3 - 9m^2)"
   },
   {
-    "question": "63a^6 - 63a^3c^4",
-    "answer": "7a^3(9a^3 - 9c^4)"
+    "question": "9m^7 - 81m^4x^4",
+    "answer": "9m^4(m^3 - 9x^4)"
   },
   {
-    "question": "16a^5 - 8a^4y",
-    "answer": "4a^4(4a - 2y)"
+    "question": "8b^4 + 2b^3m",
+    "answer": "b^3(8b + 2m)"
   },
   {
-    "question": "20y^7 + 35y^4z^2",
-    "answer": "5y^4(4y^3 + 7z^2)"
+    "question": "14b^7 + 35b^3n^4",
+    "answer": "7b^3(2b^4 + 5n^4)"
   },
   {
-    "question": "21b^6 - 14b^4p^4",
-    "answer": "7b^4(3b^2 - 2p^4)"
+    "question": "6p^7 - 15p^3x^3",
+    "answer": "3p^3(2p^4 - 5x^3)"
   },
   {
-    "question": "27c^6 - 63c^2y",
-    "answer": "9c^2(3c^4 - 7y)"
+    "question": "27b^5 + 27b^2z^3",
+    "answer": "3b^2(9b^3 + 9z^3)"
   },
   {
-    "question": "16n^2 + 10ny^4",
-    "answer": "2n(8n + 5y^4)"
+    "question": "27a^8 - 27a^4q^3",
+    "answer": "3a^4(9a^4 - 9q^3)"
   },
   {
-    "question": "21n^4 + 28np",
-    "answer": "7n(3n^3 + 4p)"
+    "question": "12a^6 + 24a^4m",
+    "answer": "4a^4(3a^2 + 6m)"
   },
   {
-    "question": "27c^5 + 9c^3q^3",
-    "answer": "9c^3(3c^2 + q^3)"
+    "question": "63p^4 - 72px^4",
+    "answer": "9p(7p^3 - 8x^4)"
   },
   {
-    "question": "27a^5 - 36a^4m",
-    "answer": "9a^4(3a - 4m)"
+    "question": "4c^8 - 20c^4x^3",
+    "answer": "4c^4(c^4 - 5x^3)"
   },
   {
-    "question": "54p^6 - 18p^2z^4",
-    "answer": "6p^2(9p^4 - 3z^4)"
+    "question": "14n^7 - 14n^3p",
+    "answer": "2n^3(7n^4 - 7p)"
   },
   {
-    "question": "7c^5 + 42c^2n^2",
-    "answer": "7c^2(c^3 + 6n^2)"
+    "question": "56n^6 - 63n^4p",
+    "answer": "7n^4(8n^2 - 9p)"
   },
   {
-    "question": "72x^6 - 9x^4y^4",
-    "answer": "9x^4(8x^2 - y^4)"
+    "question": "9c^5 + 54c^3p^3",
+    "answer": "9c^3(c^2 + 6p^3)"
   },
   {
-    "question": "4b^4 - 9b^2n^4",
-    "answer": "b^2(4b^2 - 9n^4)"
+    "question": "72a^6 + 9a^4y^2",
+    "answer": "9a^4(8a^2 + y^2)"
   },
   {
-    "question": "40a^8 + 5a^4p",
-    "answer": "5a^4(8a^4 + p)"
+    "question": "4q^3 + 16qz",
+    "answer": "2q(2q^2 + 8z)"
   },
   {
-    "question": "15a^8 + 15a^4b^2",
-    "answer": "5a^4(3a^4 + 3b^2)"
+    "question": "20a^5 - 32a^3m^2",
+    "answer": "4a^3(5a^2 - 8m^2)"
   },
   {
-    "question": "54q^6 - 54q^2y^4",
-    "answer": "9q^2(6q^4 - 6y^4)"
+    "question": "12a^5 - 6a^4q",
+    "answer": "6a^4(2a - q)"
   },
   {
-    "question": "6x^7 - 16x^3y",
-    "answer": "2x^3(3x^4 - 8y)"
+    "question": "63b^4 - 42bx",
+    "answer": "7b(9b^3 - 6x)"
   },
   {
-    "question": "5c^8 - 8c^4m^4",
-    "answer": "c^4(5c^4 - 8m^4)"
+    "question": "6p^4 - 10pq^2",
+    "answer": "2p(3p^3 - 5q^2)"
   },
   {
-    "question": "35c^4 + 49c^3z^4",
-    "answer": "7c^3(5c + 7z^4)"
+    "question": "6m^5 - 18mn^4",
+    "answer": "3m(2m^4 - 6n^4)"
   },
   {
-    "question": "5n^4 + 30n^3z^3",
-    "answer": "5n^3(n + 6z^3)"
+    "question": "36a^5 + 30ac^2",
+    "answer": "6a(6a^4 + 5c^2)"
   },
   {
-    "question": "56a^5 - 56a^2x^4",
-    "answer": "7a^2(8a^3 - 8x^4)"
+    "question": "56a^7 - 16a^3z^4",
+    "answer": "8a^3(7a^4 - 2z^4)"
   },
   {
-    "question": "54a^5 + 81a^2y^2",
-    "answer": "9a^2(6a^3 + 9y^2)"
+    "question": "24b^6 - 48b^2p^4",
+    "answer": "8b^2(3b^4 - 6p^4)"
   },
   {
-    "question": "27a^4 + 72a^2m",
-    "answer": "9a^2(3a^2 + 8m)"
+    "question": "18q^6 - 27q^3y^3",
+    "answer": "9q^3(2q^3 - 3y^3)"
   },
   {
-    "question": "20m^4 - 16mp^4",
-    "answer": "4m(5m^3 - 4p^4)"
+    "question": "7a^7 - 9a^4c^2",
+    "answer": "a^4(7a^3 - 9c^2)"
   },
   {
-    "question": "14a^8 - 10a^4n",
-    "answer": "2a^4(7a^4 - 5n)"
+    "question": "45n^6 + 25n^2p^4",
+    "answer": "5n^2(9n^4 + 5p^4)"
   },
   {
-    "question": "54c^3 - 36c^2z",
-    "answer": "6c^2(9c - 6z)"
+    "question": "18c^4 - 12c^3z^4",
+    "answer": "6c^3(3c - 2z^4)"
   },
   {
-    "question": "42p^7 - 35p^3x",
-    "answer": "7p^3(6p^4 - 5x)"
+    "question": "8m^5 + 24m^4x^4",
+    "answer": "8m^4(m + 3x^4)"
   },
   {
-    "question": "48x^4 - 64xz",
-    "answer": "8x(6x^3 - 8z)"
+    "question": "18b^7 + 45b^4m^4",
+    "answer": "9b^4(2b^3 + 5m^4)"
   },
   {
-    "question": "5m^5 - 40m^2z^4",
-    "answer": "5m^2(m^3 - 8z^4)"
+    "question": "20a^3 + 8an^2",
+    "answer": "4a(5a^2 + 2n^2)"
   },
   {
-    "question": "9m^5 + 3m^4p^4",
-    "answer": "3m^4(3m + p^4)"
+    "question": "20m^6 + 36m^2y^3",
+    "answer": "4m^2(5m^4 + 9y^3)"
   },
   {
-    "question": "14c^4 + 10c^2n^3",
-    "answer": "2c^2(7c^2 + 5n^3)"
+    "question": "21m^6 + 9m^2q^3",
+    "answer": "3m^2(7m^4 + 3q^3)"
   },
   {
-    "question": "32a^6 - 36a^3p^4",
-    "answer": "4a^3(8a^3 - 9p^4)"
+    "question": "3q^6 - 9q^2x",
+    "answer": "3q^2(q^4 - 3x)"
   },
   {
-    "question": "40c^3 - 30c^2q^3",
-    "answer": "5c^2(8c - 6q^3)"
+    "question": "6q^4 - 18q^2z",
+    "answer": "6q^2(q^2 - 3z)"
   },
   {
-    "question": "21p^5 + 56p^2x^2",
-    "answer": "7p^2(3p^3 + 8x^2)"
+    "question": "12b^7 - 18b^3z",
+    "answer": "6b^3(2b^4 - 3z)"
   },
   {
-    "question": "18b^4 - 9b^3n",
-    "answer": "9b^3(2b - n)"
+    "question": "35b^8 + 56b^4y",
+    "answer": "7b^4(5b^4 + 8y)"
   },
   {
-    "question": "20a^4 + 10aq^2",
-    "answer": "5a(4a^3 + 2q^2)"
+    "question": "36m^4 - 18m^3x^4",
+    "answer": "9m^3(4m - 2x^4)"
   },
   {
-    "question": "15a^3 + 10ax^3",
-    "answer": "5a(3a^2 + 2x^3)"
+    "question": "28m^6 - 12m^3p^3",
+    "answer": "4m^3(7m^3 - 3p^3)"
   },
   {
-    "question": "48a^7 + 12a^4b^4",
-    "answer": "6a^4(8a^3 + 2b^4)"
+    "question": "30y^3 - 15yz^4",
+    "answer": "5y(6y^2 - 3z^4)"
   },
   {
-    "question": "9n^4 + 2n^3z",
-    "answer": "n^3(9n + 2z)"
+    "question": "36m^5 - 48m^4p",
+    "answer": "6m^4(6m - 8p)"
   },
   {
-    "question": "24c^6 - 64c^2m^3",
-    "answer": "8c^2(3c^4 - 8m^3)"
+    "question": "63a^4 + 49a^3z^2",
+    "answer": "7a^3(9a + 7z^2)"
   },
   {
-    "question": "21c^7 - 6c^4m^3",
-    "answer": "3c^4(7c^3 - 2m^3)"
+    "question": "49y^7 - 7y^4z^2",
+    "answer": "7y^4(7y^3 - z^2)"
   },
   {
-    "question": "35b^7 + 7b^4q",
-    "answer": "7b^4(5b^3 + q)"
+    "question": "56c^3 + 49c^2y",
+    "answer": "7c^2(8c + 7y)"
   },
   {
-    "question": "36c^5 + 24c^3p^4",
-    "answer": "6c^3(6c^2 + 4p^4)"
+    "question": "36q^8 + 45q^4y^4",
+    "answer": "9q^4(4q^4 + 5y^4)"
   },
   {
-    "question": "n^5 + 5n^3q^4",
-    "answer": "n^3(n^2 + 5q^4)"
+    "question": "35m^8 - 42m^4p^3",
+    "answer": "7m^4(5m^4 - 6p^3)"
   },
   {
-    "question": "24c^5 - 40cn^3",
-    "answer": "8c(3c^4 - 5n^3)"
+    "question": "8a^6 - 9a^2n",
+    "answer": "a^2(8a^4 - 9n)"
   },
   {
-    "question": "5a^6 - 25a^4p^2",
-    "answer": "5a^4(a^2 - 5p^2)"
+    "question": "72p^4 - 54py^2",
+    "answer": "9p(8p^3 - 6y^2)"
   },
   {
-    "question": "4b^7 + 28b^4q^3",
-    "answer": "4b^4(b^3 + 7q^3)"
+    "question": "35c^3 - 7c^2x",
+    "answer": "7c^2(5c - x)"
   },
   {
-    "question": "6m^5 + 48mx^3",
-    "answer": "6m(m^4 + 8x^3)"
+    "question": "9p^7 - 27p^4y",
+    "answer": "3p^4(3p^3 - 9y)"
   }
 ]
