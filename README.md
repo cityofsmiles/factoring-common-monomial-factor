@@ -1,0 +1,1 @@
+# factoring-common-monomial-factor
